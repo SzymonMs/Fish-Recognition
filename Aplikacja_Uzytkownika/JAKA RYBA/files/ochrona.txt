@@ -1,0 +1,8 @@
+KARAS,brak,brak
+KARP,30cm,brak
+LESZCZ,brak,brak
+LIN,25cm,brak
+OKON,18cm,brak
+PLOC,brak,brak
+SZCZUPAK,50cm,01/01-30/04
+UKLEJA,brak,brak
