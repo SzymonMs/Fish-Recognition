@@ -7,3 +7,8 @@ My app:
 <p align="center">
 <img width="416" height="312" src="https://github.com/SzymonMs/Fish-Recognition/blob/main/view.png">
   <p align="center">
+
+Accuracy of Classification:
+<p align="center">
+<img width="416" height="416" src="https://github.com/SzymonMs/Fish-Recognition/blob/main/results.png">
+  <p align="center">
